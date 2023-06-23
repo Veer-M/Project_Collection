@@ -1,12 +1,8 @@
 '''
-   CIST 005A Summer 2023
-   HW week 1 problem 2.14
    Description: This program finds the area of a triangle given three points
    Input: Console input of three coordinates
    Output: Console output of triangle area
-   Student: Veer Mistry
    Known bugs: Error when non-numerical values are inputted and not given in the right format (a, b, c, d, e, f)
-   Date: 6/22/2023
 '''
 
 Points = input("Enter three points for a triangle: ")
