@@ -1,12 +1,8 @@
 '''
-   CIST 005A Summer 2023
-   HW week 1 problem 3.18
    Description: This program prompts the user and plots three points for a triangle and displays it using turtle graphics
    Input: Console input three coordinate positions of a triangle
    Output: Console output visual triangle with three angles
-   Student: Veer Mistry
    Known bugs: When console input is not numerical values
-   Date: 6/22/2023
 '''
 
 import turtle
