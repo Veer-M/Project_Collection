@@ -1,12 +1,8 @@
 '''
-   CIST 005A Summer 2023
-   HW week 1 problem 1.11
    Description: This program predicts the US population for the next five years
    Input: None
    Output: Five population counts
-   Student: Veer Mistry
    Known bugs: None
-   Date: 6/20/2023
 '''
 
 print(312032486 + 365 * 24 * 60 * 60 // 7 - 365 * 24 * 60 * 60 // 13 + 365 * 24 * 60 * 60 // 45)
