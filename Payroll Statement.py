@@ -1,12 +1,8 @@
 '''
-   CIST 005A Summer 2023
-   HW week 1 problem 3.9
    Description: This program reads financial information and produces a payroll statement
    Input: Console input employee name, number of hours in a week, hourly pay rate, federal tax withholding rate, and state tax withholding rate
    Output: Console output given input and gross pay, federal withholding amount, state withholding amount, total deduction, and net pay
-   Student: Veer Mistry
    Known bugs: Error when non-numerical value is provided for info, but error when non-string input is given for employee name
-   Date: 6/22/2023
 '''
 
 name = str(input("Enter employee's name: "))
