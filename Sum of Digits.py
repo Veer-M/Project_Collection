@@ -1,12 +1,8 @@
 '''
-   CIST 005A Summer 2023
-   HW week 1 problem 2.6
    Description: This program reads an integer, and adds all the digits in the integer.
    Input: Console input of an integer between 0 and 1000
    Output: Console output of the sum of the integer digits
-   Student: Veer Mistry
    Known bugs: Error when non-integer value is inputted
-   Date: 6/21/2023
 '''
 
 Numb = int(input("Enter a number between 0 and 1000: "))
